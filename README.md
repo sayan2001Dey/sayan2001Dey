@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **archismantripathi/archismantripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Archisman Tripathi</h1>
+<h3 align="center"></h3> 
+
+
+- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 🔭 I’m currently working on a 🤖 &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 💬 Ask me about **Angular , MEAN, Nest.js** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📫 How to reach me **archismantripathi@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=archismantripathi&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
