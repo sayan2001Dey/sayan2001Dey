@@ -26,9 +26,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me **archismantripathi@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=archismantripathi&theme=tokyonight)](https://git.io/streak-stats)
+<hr>
 
 
+
+
+
+
+  | Current Strek | Github Stats  |
+| --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=archismantripathi&) | ![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=archismantripathi&show_icons=true) |
+
+
+<!-- Theme color -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
 
