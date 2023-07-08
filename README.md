@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-![snake svg](https://github.com/archismantripathi/archismantripathi/blob/output/github-contribution-grid-snake.svg)
-
-
