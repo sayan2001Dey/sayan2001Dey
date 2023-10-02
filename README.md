@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center"></h3> 
 
 
-- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🌱 I’m currently learning **Spring Boot, Go** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 🔭 I’m currently working on a 🤖 &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
