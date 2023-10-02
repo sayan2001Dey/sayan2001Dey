@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Archisman</h1>
 <h3 align="center"></h3> 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archismantripathi&layout=compact"/>
 
 - 🌱 I’m currently learning **Spring Boot, Go** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
