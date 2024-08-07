@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Archisman</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Sayan</h1>
 <h3 align="center"></h3> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archismantripathi&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan2001Dey&layout=compact"/>
 
 - 🌱 I’m currently learning more about **Spring Boot, Go** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Angular , MEAN, Nest.js** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **archismantripathi@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **sayandey450@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
 <hr>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   | Current Strek | Github Stats  |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=archismantripathi&) | ![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=archismantripathi&show_icons=true) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayan2001Dey&) | ![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayan2001Dey&show_icons=true) |
 
 
 <!-- Theme color -->
