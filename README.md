@@ -1,5 +1,5 @@
 <!--
-**archismantripathi/archismantripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sayan2001Dey/sayan2001Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan2001Dey&layout=compact"/>
 
-- 🌱 I’m currently learning more about **Spring Boot, Go** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🌱 I’m currently learning more about **Go, Angular 18** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 🔭 I’m currently working on a 🤖 &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🔭 I’m currently working on a ERP project &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **Angular , MEAN, Nest.js** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 💬 Ask me about **Spring Boot, Java, MVC** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📫 How to reach me **sayandey450@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   | Current Strek | Github Stats  |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayan2001Dey&) | ![Archisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayan2001Dey&show_icons=true) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayan2001Dey&) | ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayan2001Dey&show_icons=true) |
 
 
 <!-- Theme color -->
